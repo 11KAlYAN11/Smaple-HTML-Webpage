@@ -1,4 +1,4 @@
-# Smaple-HTML-Webpage
+# Sample-HTML-Webpage
 sample code for html webpage
 
 
